@@ -1,0 +1,7 @@
+{
+  "name": "The Harmonic Convergence: Celestial Canticle",
+  "description": "A mystical interface bridging the 1987 Harmonic Convergence with the 2025 Celestial Canticle, featuring fractal visualizations, sacred geometry, and architectural dialogues with the Innovators Assembly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
